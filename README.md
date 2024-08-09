@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me anything about MERN, Java
 - 📫 How to reach me: vibhamaurya@gmail.com
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGNWRuvee8/8LBaUnHrruwJ6B3yoWP1fA/edit?utm_content=DAGNWRuvee8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hFsuxTWON78QL8km2yKWhMx8wKg0rKwM/view?usp=sharing">here</a>
   
 ### Connect with me:
 <div id="badges">
