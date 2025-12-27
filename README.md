@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning **Node.js & Backend Development**
+- 🌱 Currently learning **Backend Development**
 - 💬 Ask me about **MERN Stack, Java, REST APIs**
 - 📫 Reach me at: **vibhamaurya@gmail.com**
 - 📄 View my resume  
