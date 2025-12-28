@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vibha Maurya</h1>
-<h3 align="center">Full Stack Developer | MERN | Java | Node.js Learner</h3>
+<h3 align="center">Full Stack Developer | MERN | Java | Backend Enthusiast</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning **Backend Development**
+- 🌱 Currently learning **Backend Development (Fastify + Prisma)**
 - 💬 Ask me about **MERN Stack, Java, REST APIs**
 - 📫 Reach me at: **vibhamaurya@gmail.com**
 - 📄 View my resume  
@@ -13,36 +13,46 @@
 ---
 
 ### 🔗 Connect with Me
-<div align="left">
+<p align="left">
   <a href="https://github.com/vibhamaurya060">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vibhamaurya060/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Vibha060/">
     <img src="https://img.shields.io/badge/LeetCode-2c2c2c?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
-</div>
+</p>
 
 ---
 
 ### 🛠️ Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,fastify,mongodb,mysql,postgres,prisma,java,git,github,figma)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhamaurya060&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages"/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vibhamaurya060&show_icons=true&theme=github_dark&hide_border=true" 
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibhamaurya060&show_icons=true&locale=en&theme=default" alt="GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhamaurya060&layout=compact&theme=github_dark&hide_border=true" 
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhamaurya060&theme=default" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vibhamaurya060&theme=github-dark&hide_border=true" 
+    height="160"
+  />
 </p>
 
 ---
