@@ -28,7 +28,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,fastify,mongodb,mysql,postgres,prisma,java,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,fastify,mongodb,mysql,postgres,prisma,java,git,github,figma)](https://skillicons.dev)
 
 ---
 
@@ -36,21 +36,21 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=vibhamaurya060&show_icons=true&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=vibhamaurya060&show_icons=true&count_private=true" 
     height="160"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhamaurya060&layout=compact&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhamaurya060&layout=compact&count_private=true" 
     height="160"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vibhamaurya060&theme=github-dark&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vibhamaurya060" 
     height="160"
   />
 </p>
