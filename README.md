@@ -28,7 +28,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,fastify,mongodb,mysql,postgres,prisma,java,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,prisma,java,git,github,figma)](https://skillicons.dev)
 
 ---
 
